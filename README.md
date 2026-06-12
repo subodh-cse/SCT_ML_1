@@ -148,3 +148,23 @@ This project demonstrates the implementation of Linear Regression for predicting
 # Author
 
 Subodh
+
+## Output Screenshots
+
+### Correlation Heatmap
+
+![Heatmap](Correlation%20Heatmap.png)
+
+### Area vs House Price
+
+![Area vs Price](Area%20vs%20House%20price.png)
+
+### Actual vs Predicted Price
+
+![Actual vs Predicted](Actual%20vs%20Predicted%20Price.png)
+
+### Residual Error Plot
+
+![Residual Plot](Residual%20Error%20Plot.png)
+
+
