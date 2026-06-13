@@ -76,7 +76,7 @@ The model is evaluated using:
 
 # Project Structure
 
-
+```text
 SCT_ML_1/
 │
 ├── house_price_prediction.py
@@ -84,7 +84,7 @@ SCT_ML_1/
 ├── requirements.txt
 └── README.md
 
-
+```
 ---
 
 # Installation
